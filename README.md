@@ -33,8 +33,8 @@ HTML, CSS, JavaScript, Three.js and Vite.
 ## Project Structure
 
 `index.html` — Main webpage
-`src/main.js` — 3D effects and interactions
-`src/style.css` — Website styling
+`srcmain.js` — 3D effects and interactions
+`srcstyle.css` — Website styling
 `package.json` — Project dependencies
 
 ## Theme
@@ -43,4 +43,5 @@ HTML, CSS, JavaScript, Three.js and Vite.
 
 ## Author
 
-TechFest 2026
+Pia Anoop B
+College Ambassador
